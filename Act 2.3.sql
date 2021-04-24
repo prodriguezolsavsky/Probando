@@ -5,6 +5,7 @@ go
 
 
 --1
+--COMENTARIO DE FEDE
 --La cantidad de colaboradores
 Select Count(ID) from Colaboradores
 --2
