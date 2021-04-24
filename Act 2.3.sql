@@ -3,7 +3,7 @@ go
 
 --YEAH!
 
---- hello word
+--- hello world
 --1
 --COMENTARIO DE FEDE
 --La cantidad de colaboradores
